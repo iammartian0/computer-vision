@@ -6,3 +6,5 @@ The model used is pretrained 'Resnet18', finetuned on images of target classes.
 The images are scrapped from internet.
 
 The model took around 3 minutes to train on kaggle 'CPU'.
+
+The [inference](https://huggingface.co/spaces/iammartian0/cat_or_dog_family) app is hosted on Huggingface Space.
